@@ -4,5 +4,5 @@ Practice repository for the Introduction to Software Engineering course.
  
  Hello! This is my first time using Git and GitHub.
  ## Student information
- -**Full Name:** Truong thi Ngoc Thanh
+ -**Full Name:** Truong Thi Ngoc Thanh
  -**Student ID:** 24S7040011
